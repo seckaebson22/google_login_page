@@ -1,6 +1,6 @@
 {
   "homepage": "http://seckaebson22.github.io/google_login_page",
-  "name": "custom_google_login_page",
+  "name": "google_login_page",
   "proxy": "http://127.0.0.1:5000/",
   "version": "0.1.0",
   "private": true,
