@@ -2,9 +2,6 @@
   "homepage": "https://seckaebson22.github.io/google_login_page",
   "name": "google_login_page",
   "version": "0.1.0",
-  "engines": {
-    "node": "16.13.1"
-  },
   "private": true,
   "dependencies": {
     "@react-oauth/google": "^0.2.6",
